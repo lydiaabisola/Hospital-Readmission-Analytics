@@ -18,3 +18,10 @@ Group Leader — contributed to data analysis, dashboard development, insight in
 
 Dashboard
 The project contains Executive Overview and Clinical Insights pages designed to provide an interactive view of hospital readmission patterns.
+Dashboard Preview
+
+Executive Overview
+![Executive Overview](executiveoverview.png.png)
+
+Clinical Insights
+![Clinical Insights](clinical-insights.png.png)
